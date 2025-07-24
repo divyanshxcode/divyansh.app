@@ -145,10 +145,10 @@ export default function Portfolio() {
               <Mail className="w-6 h-6" />
             </a>
           </div>
-          <Button className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2">
+          {/* <Button className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2">
             <Download className="w-4 h-4 mr-2" />
             Download Resume
-          </Button>
+          </Button> */}
         </div>
       </section>
 
